@@ -74,6 +74,8 @@
 			children = (
 				B7913FA32C58AD34004124CC /* AppDelegate.swift */,
 				B7913FA52C58AD34004124CC /* SceneDelegate.swift */,
+				B7A99E172C608001000F0429 /* TableViewCells */,
+				B7BC574B2C5A12120028F1F3 /* CoreDataFolder */,
 				B7B620222C6B019B00CE2991 /* View Controllers */,
 				B7913FA92C58AD34004124CC /* Main.storyboard */,
 				B7913FAF2C58AD35004124CC /* Assets.xcassets */,
@@ -96,8 +98,6 @@
 		B7B620222C6B019B00CE2991 /* View Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				B7A99E172C608001000F0429 /* TableViewCells */,
-				B7BC574B2C5A12120028F1F3 /* CoreDataFolder */,
 				B7A99E182C608089000F0429 /* HomePageVc.swift */,
 				B7A99E1C2C608692000F0429 /* CreateProfileVc.swift */,
 				B7A99E1A2C6080AD000F0429 /* ListVC.swift */,
