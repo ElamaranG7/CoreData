@@ -4,6 +4,23 @@ In this guide, I’ll break down the basics of Core Data and show you how to han
 
 If you have any questions or need further clarification, I will be uploading a video demonstration of my Core Data project. Stay tuned for more detailed explanations!
 
+i just add a defination for the keywords of coreData
+
+**NSManagedObjectModel** defines the structure of the data (entities and attributes).
+
+**NSEntityDescription** describes each entity within the model.
+
+**NSManagedObject** represents an instance of an entity, containing actual data.
+
+**NSManagedObjectContext** is the environment where you perform operations on NSManagedObject instances.
+
+**NSPersistentStoreCoordinator** manages the storage and retrieval of data in the persistent store (like an SQLite database).
+
+**NSFetchRequest** is used to retrieve data from the Core Data store based on certain criteria.
+
+**NSPredicate** adds filtering criteria to NSFetchRequest to narrow down the results.
+
+
 if any doubt , i will attach my medium link here:
 https://medium.com/@elamaran_G/core-data-crud-in-swift-using-xcode-for-beginners-4b33788750bd
 
@@ -15,4 +32,5 @@ https://medium.com/@elamaran_G/core-data-crud-in-swift-using-xcode-for-beginners
 
 final Video of my Project :
 https://github.com/user-attachments/assets/a05fe051-f2b2-4fbb-a4c8-d2bc57e63418
+
 
